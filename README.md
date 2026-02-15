@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there I'm Bruno Sebastião
+
+👨‍💻 About me:
+  - 💻 Developer passionate about technology and continuous learning.
+  - 💡 I enjoy transforming ideas into practical solutions, exploring new tools and improving my skills with each project.
+  - 🚀 Always seeking to evolve, collaborate on interesting projects, and contribute to the open source community.
+  - 📚 Currently focused on expanding my knowledge and building efficient, clean, and scalable solutions.
 
 <!--
 **bsebasti0/bsebasti0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

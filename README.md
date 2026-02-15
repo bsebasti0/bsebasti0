@@ -36,5 +36,5 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHYyM2pqanhyOHM4cnE5aGp3djA2cDdkZm15Ym5wZ2lydGNweG0zYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3NE7JhJgZBHlMfmNEa/giphy.gif" width="400">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHYyM2pqanhyOHM4cnE5aGp3djA2cDdkZm15Ym5wZ2lydGNweG0zYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3NE7JhJgZBHlMfmNEa/giphy.gif" width="300">
 </p>

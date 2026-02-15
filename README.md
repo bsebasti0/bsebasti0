@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 📫 Conect with me
-<p align="center">
-  <a href="www.linkedin.com/in/bsebasti9">
+<p align="left">
+  <a href="https://www.linkedin.com/in/bsebasti9">
     <img height="30" src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>

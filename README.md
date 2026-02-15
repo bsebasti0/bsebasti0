@@ -34,5 +34,6 @@ Here are some ideas to get you started:
     <img height="30" src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
 </p>
+![Dedicated Programmer]([URL_DO_GIF_AQUI](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHYyM2pqanhyOHM4cnE5aGp3djA2cDdkZm15Ym5wZ2lydGNweG0zYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3NE7JhJgZBHlMfmNEa/giphy.gif))
 
 https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHYyM2pqanhyOHM4cnE5aGp3djA2cDdkZm15Ym5wZ2lydGNweG0zYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3NE7JhJgZBHlMfmNEa/giphy.gif

@@ -11,7 +11,9 @@
   Student @ Óscar Ribas University & 42Luanda
 </p> 
 
-👨‍💻 About me:
+---
+
+##👨‍💻 About me:
   - 💻 Developer passionate about technology and continuous learning.
   - 💡 I enjoy transforming ideas into practical solutions, exploring new tools and improving my skills with each project.
   - 🚀 Always seeking to evolve, collaborate on interesting projects, and contribute to the open source community.

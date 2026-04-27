@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img height="30" src="https://skillicons.dev/icons?i=git,windows,linux,vim,pycharm,vscode,github,git,postgres,mysql,kubernetes,docker,c,cpp,java,py,django,html,css,wordpress" />
+    <img height="60" src="https://skillicons.dev/icons?i=windows,linux,vim,pycharm,vscode,github,git,postgres,mysql,kubernetes,docker,c,cpp,java,py,django,html,css,wordpress" />
   </a>
 </p>
 
